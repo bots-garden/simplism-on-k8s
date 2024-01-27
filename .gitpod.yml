@@ -9,7 +9,7 @@ tasks:
         sudo tar -xf simplism.tar.gz -C /usr/bin
         rm simplism.tar.gz
         simplism version
-
+        
 vscode:
   extensions:
     - PKief.material-icon-theme
