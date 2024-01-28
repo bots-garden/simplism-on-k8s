@@ -1,6 +1,8 @@
 # simplism-on-k8s
 
-This is the companion project of this blog post:
+This is the companion project of this blog posts:
+- https://k33g.hashnode.dev/deploy-wasm-functions-on-kubernetes-with-simplism
+- https://k33g.hashnode.dev/deploy-wasm-functions-on-kubernetes-with-simplism-1
 
 
 ## Download the wasm file samples
